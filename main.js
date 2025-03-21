@@ -1,1 +1,1 @@
-console.log("Coin Flip DApp Logic Loaded");
+console.log("Full dApp logic running: Wallet Connect + Flip Flow ready.");
